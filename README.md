@@ -1,4 +1,4 @@
-> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS-Wearable Index](https://github.com/Explore-In-HMOS-Wearable/hmos-index).
+> **Note:** To access all shared projects, get information about environment setup, and view other guides, please visit [Explore-In-HMOS Index](https://github.com/Explore-In-HMOS/hmos-index).
 
 # How To Implement Screenshot Prevention
 This codelab(how-to-implement-screenshot-prevention) shows how to protect sensitive screens on HarmonyOS smart wearables with 'setWindowPrivacyMode'. The demo app lets you enable or disable privacy mode on the app window, reads the actual window state back with 'getWindowProperties()' When protection is on, system screenshots and screen recordings of the window come out black.
